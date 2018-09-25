@@ -10,6 +10,6 @@ Put the trainging and testing data you downloaded from the above website togethe
 
 Then run the program: python preprocess0.py
 
-Finally, you can get the result named 'pred_result.csv'.
+Finally, you can get the result file named 'pred_result.csv'.
 
 you may get different result from us because of choosing at random.
