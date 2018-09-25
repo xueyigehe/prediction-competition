@@ -1,7 +1,7 @@
 # prediction-competition
 top5 of tap4fun game pay-price prediction competition
 
-External packages:numpy\pandas\copy\sklearn(0.19.0 used)
+External packages: numpy\pandas\copy\sklearn(0.19.0 used)
 
 you can get the training and testing data from:
 http://www.dcjingsai.com/common/cmpt/游戏玩家付费金额预测大赛_竞赛信息.html
