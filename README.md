@@ -13,3 +13,5 @@ Then run the program: python preprocess0.py
 Finally, you can get the result file named 'pred_result.csv'.
 
 you may get different result from us because of choosing at random.
+
+欢迎关注公众号：机器学习与实践
